@@ -58,7 +58,7 @@ class EditDreamViewController: UIViewController,UIImagePickerControllerDelegate,
             //            if let img = newDiary.image {
             //                self.editImage.image = UIImage(data: img as Data)
             //            }
-      
+      //
      
         }
     
